@@ -11,3 +11,4 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - El perrito que quiere un hueso
 - Toma de decisiones
 - Calculadora de operaciones matriciales
+- En busca de la mayor diversión
