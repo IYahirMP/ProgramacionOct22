@@ -8,14 +8,17 @@ int main(){
     unsigned int noJuguetes = 0;
     cin >> noJuguetes;
     //Se crea un arreglo dinamico de enteros con capacidad para los juguetes.
-    unsigned short int* diversion = new unsigned short int[noJuguetes];
+    char* diversion = new char[noJuguetes];
 
     //Se le asigna una entrada a cada punto del arreglo.
-    for (unsigned int i = 0; i < noJuguetes; i++)
-        cin >> *(diversion + i);
+    int tmp;    
+    for (unsigned int i = 0; i < noJuguetes; i++){
+        cin >> tmp;
+        *(diversion + i) = tmp;
+        }
 
     //Se ordena de mayor a menor el arreglo
-    sort(diversion, diversion + (noJuguetes), greater<unsigned short int>());
+    sort(diversion, diversion + (noJuguetes), greater<char>());
 
     //Se crea una variable para el resultado
     int resultado = 0;
