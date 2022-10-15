@@ -14,3 +14,5 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - En busca de la mayor diversión
 - Vector dominante
 - Imprimiendo enteros por paridad
+- Filtrando múltiplos
+- Producto punto de dos vectores
