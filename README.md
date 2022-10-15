@@ -12,3 +12,5 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - Toma de decisiones
 - Calculadora de operaciones matriciales
 - En busca de la mayor diversión
+- Vector dominante
+- Imprimiendo enteros por paridad
