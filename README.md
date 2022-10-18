@@ -16,3 +16,5 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - Imprimiendo enteros por paridad
 - Filtrando múltiplos
 - Producto punto de dos vectores
+- Una recurrencia sencilla
+- Una recurrencia con dominio real
