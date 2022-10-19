@@ -18,3 +18,5 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - Producto punto de dos vectores
 - Una recurrencia sencilla
 - Una recurrencia con dominio real
+- Recurrencia con dominio positivo y negativo
+- Dos recurrencias mutuas
