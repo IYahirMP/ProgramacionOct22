@@ -5,6 +5,7 @@ Las soluciones enviadas en cada problema son evaluadas y pueden obtener diferent
 En este repositorio se almacenan las soluciones con el mejor puntaje del calificador (AC, 100%) para algunos problemas.
 
 # Problemas solucionados
+
 - Watermelon
 - Detector de letras
 - Escalera de asteriscos
@@ -20,3 +21,5 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - Una recurrencia con dominio real
 - Recurrencia con dominio positivo y negativo
 - Dos recurrencias mutuas
+- Formados en la cafetería
+- Las bitácoras de la sana distancia
