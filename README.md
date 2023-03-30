@@ -23,3 +23,4 @@ En este repositorio se almacenan las soluciones con el mejor puntaje del calific
 - Dos recurrencias mutuas
 - Formados en la cafetería
 - Las bitácoras de la sana distancia
+- Un banco con clientes no preferentes
