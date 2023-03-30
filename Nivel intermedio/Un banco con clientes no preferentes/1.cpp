@@ -40,7 +40,6 @@ using namespace std;
  * 2. Si es la fila 1:
  *      2.1 Imprimir el nombre del primer cliente ingresado en la fila
  *      2.2 Eliminar al primer cliente ingresado en la fila
- *      2.3 Ir al paso 4.
  * 3. Si es la fila 2:
  *      3.1 Imprimir el nombre del último cliente ingresado en la fila
  *      3.2 Eliminar al último cliente ingresado de la fila
