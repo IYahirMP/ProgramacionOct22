@@ -31,7 +31,7 @@ def obtenerZapatillas():
     return zapatillas
 
 
-def contarZapatillas():
+def contarZapatillas(zapatillas):
     zapatillasEncontradas = list()
     cuentaZapatillas = list()
     for i, zapatilla in enumerate(zapatillas):
@@ -56,8 +56,8 @@ def tirarZapatillas(zapatillasEncontradas, cuentaZapatillas):
             zapatillasATirar.append(zapatillasEncontradas[i])
             continue
         # Se puede prescindir de estas dos lineas sin problemas
-        if cuentaZapatilla % 2 == 0:
-            continue
+        # if cuentaZapatilla % 2 == 0:
+        #    continue
     return zapatillasATirar
 
 
@@ -78,7 +78,7 @@ def imprimirZapatillasAConservar(cuentaZapatillas):
 
 
 zapatillas = obtenerZapatillas()
-zapatillasEncontradas, cuentaZapatillas = contarZapatillas()
+zapatillasEncontradas, cuentaZapatillas = contarZapatillas(zapatillas)
 zapatillasATirar = tirarZapatillas(zapatillasEncontradas, cuentaZapatillas)
 
 imprimirZapatillasATirar(zapatillasATirar)
